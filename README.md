@@ -2,9 +2,13 @@
 <img src="https://github.com/Jinoy-Varghese/YTSubFree/blob/main/assets/yts_logo.png" />
 <br />
 
-<img src="https://img.shields.io/github/license/mashape/apistatus.svg" />
-<img src="https://img.shields.io/badge/OS-Windows-yellow.svg" />
-<img src="https://img.shields.io/badge/python-3.5%2B-blue.svg" />
+
+ ![pythonver](https://img.shields.io/badge/python-3.5%2B-blue.svg)
+ ![os](https://img.shields.io/badge/OS-Windows-yellow.svg)
+ ![license](https://img.shields.io/github/license/mashape/apistatus.svg)
+
+ 
+<br/>
 
 
 <li>10 subscribers in 1 minute</li>
