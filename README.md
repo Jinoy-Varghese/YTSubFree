@@ -1,8 +1,12 @@
 
 <img src="https://github.com/Jinoy-Varghese/YTSubFree/blob/main/assets/yts_logo.png" />
 <br />
-![license](https://img.shields.io/github/license/mashape/apistatus.svg)
-<br />
+
+<img src="https://img.shields.io/github/license/mashape/apistatus.svg" />
+<img src="https://img.shields.io/badge/OS-Windows-yellow.svg" />
+<img src="https://img.shields.io/badge/python-3.5%2B-blue.svg" />
+
+
 <li>10 subscribers in 1 minute</li>
 <li>Antiban Version</li>
 <li>This Software is just a demonstration of selenium by python. </li>
