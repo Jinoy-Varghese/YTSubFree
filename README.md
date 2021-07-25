@@ -12,7 +12,7 @@
 <br/>
 
 
-<li>10 subscribers in 1 minute</li>
+<li>30 subscribers in 3 minute</li>
 <li>Antiban Version</li>
 <li>This Software is just a demonstration of selenium by python. </li>
 <li>Don't use it for illegal activities. </li>
