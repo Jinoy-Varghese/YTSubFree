@@ -36,7 +36,7 @@ Generally, you should use the free installer, which contains all of the dependen
 <h2>Working</h2>
 <ol>
  <li>Register on websites like <a href="https://www.sonuker.com/">sonuker</a> or  <a href="https://www.subpals.com/">subpals</a> or  <a href="https://www.ytpals.com/">ytpals</a> or all of them</li>
-<li>Now open YTSFree.exe appliction inside the folder</li>
+<li>Now open YTSFree.exe appliction inside the YTSFree folder</li>
 <li>Fill the app with your unique channel id and password </li>
 <li>On the last option, you can type ytpals or subpals or sonuker one by one</li>
 <li>Don't do anything while you find congradulation prompt in your browser</li>
